@@ -15,8 +15,8 @@
      id="layer1"
      transform="translate(-1452)">
     <path
-       style="color:#000000;fill:#333333;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke markers fill"
-       d="m 1455.9551,10.25 a 1.75,1.75 0 0 0 -1.75,1.75 1.75,1.75 0 0 0 1.75,1.75 h 16.0898 a 1.75,1.75 0 0 0 1.75,-1.75 1.75,1.75 0 0 0 -1.75,-1.75 z"
+       style="color:#000000;fill:#333333;stroke-width:1.20333;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke markers fill"
+       d="M 1454.144,9.9315949 A 2.1439727,2.068405 0 0 0 1452,12 a 2.1439727,2.068405 0 0 0 2.144,2.068404 h 19.712 A 2.1439727,2.068405 0 0 0 1476,12 2.1439727,2.068405 0 0 0 1473.856,9.9315949 Z"
        id="path66" />
   </g>
 </svg>
